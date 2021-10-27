@@ -1,0 +1,29 @@
+*{
+    font-family: minion;
+}
+body{
+    width: 60%;
+    margin: auto;
+}
+
+table{
+    border:6px solid brown;
+    border-collapse: collapse; 
+}
+
+td{
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+}
+
+.jaune{
+    background-color: yellow;
+}
+.gris {
+    background-color: gray;
+}
+
+.noir{
+    background-color: black;
+}
