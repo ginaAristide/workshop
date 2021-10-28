@@ -1,0 +1,46 @@
+
+body{
+
+margin:0
+}
+
+.boite:nth-child(even){
+    height:10vh;/* =viewport height*/ 
+    width:4vw;/* =viewport width*/
+    padding:5vh;
+    background-size: cover;/*etire les l'image pour qu'elle rentre dans la balise*/
+    border:2px double black ;
+    float: left;/* effet flotant ,sort les element du flux naturel de la page les places  les uns a cotes des autres*/
+    transition: margin 0.5s;/*augmente le margin en 0.5 seconde grace a la hover*/
+    background-color: red ;
+     margin: 2vh;/*en haut,a droite en bas et a gauche*/
+     border-radius:20px
+ 
+}
+     .boite:nth-child(odd){
+        height:10vh;/* =viewport height*/ 
+        width:4vw;/* =viewport width*/
+        padding:5vh;
+        background-size: cover;/*etire les l'image pour qu'elle rentre dans la balise*/
+        border:2px double black ;
+        float: left;/* effet flotant ,sort les element du flux naturel de la page les places  les uns a cotes des autres*/
+        transition: margin 0.5s;/*augmente le margin en 0.5 seconde grace a la hover*/
+        background-color: red ;
+         margin: 2vh;/*en haut,a droite en bas et a gauche*/
+         border-radius:20px
+     
+ 
+
+
+
+
+}
+
+.boite:hover{/*edo class qui applique un effet au surval de la souris*/
+margin-top: 10vh;
+}
+
+
+.clear{
+    clear: both;/*supprime l'effet flotant des 2 cotes*/
+}
