@@ -1,0 +1,70 @@
+body{
+    font-size: 26px;
+}
+
+#conteneur{
+    width: 100%;
+    margin: 19 auto;
+    border: 2px solid ;
+}
+
+header{
+    height: 400px;
+    background-color: yellow;
+}
+
+nav{
+    background-color:black ;
+    height: 20px;
+}
+
+section{
+    height: 70px;
+    margin: 20px;
+}
+
+
+
+    .a,.b,.c,.d,.e,.f,.g,.h{
+    width: 50%;
+    height: 250px;
+    float: left;
+    
+}
+
+.i,.j,.k,.l,.m,.n,.o,.p{
+    width: 50%;
+    height: 250px;
+    float: right;  
+}
+
+
+
+.a,.b,.c,.d{
+   background-color: lime;
+float: head;
+}
+
+.e,.f,.G,.H{
+    background-color: rgb(211, 85, 144);
+    float: foot;
+}
+
+.i,..j,.k,.l{ 
+  background-color:orange;  
+  float: head;
+}
+.m,.n,.o,.p,.q{
+    background-color: violet;
+    float: foot;
+}
+    
+footer{
+height: 30%; 
+background-color: wheat;
+}
+
+
+
+
+
