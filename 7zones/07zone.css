@@ -1,0 +1,101 @@
+header{
+    height:20vh;
+    max-width: 100;
+    background-color:red ;
+    border-width:5px;
+    border-style: solid black;
+    text-align: center;
+    padding-top: 20px;
+    text-align: center;
+     display: block;
+    
+      
+    
+}
+.zone1{
+    height:80vh;/* hauteur=viewport height*/ 
+    width:20vw;/* largeur=viewport width*/
+    padding:1vh; /* espacement (ou marge)*/
+    background-size: cover;/*etire les l'image pour qu'elle rentre dans la balise*/
+    border:5px solid black;
+    float: left;/* effet flotant ,sort les element du flux naturel de la page les places  les uns a cotes des autres*/
+    background-color: green; 
+    text-align: center;   
+    display: block;
+}
+
+.zone2{
+    height:80vh;/* hauteur=viewport height*/ 
+    width:20vw;/* largeur=viewport width*/
+    padding:1vh; /* espacement (ou marge)*/
+    background-size: cover;/*etire les l'image pour qu'elle rentre dans la balise*/
+    border:5px solid black;
+    float: left;/* effet flotant ,sort les element du flux naturel de la page les places  les uns a cotes des autres*/
+    background-color: green;
+    text-align: center; 
+    display: block;  
+}
+.zone3{
+    height:80vh;/* hauteur=viewport height*/ 
+    width:20vw;/* largeur=viewport width*/
+    padding:1vh; /* espacement (ou marge)*/
+    background-size: cover;/*etire les l'image pour qu'elle rentre dans la balise*/
+    border:5px solid black;
+    float: left;/* effet flotant ,sort les element du flux naturel de la page les places  les uns a cotes des autres*/
+    background-color: green; 
+    text-align: center; 
+    display: block; 
+}
+.zone4{
+    height:80vh;/* hauteur=viewport height*/ 
+    width:20vw;/* largeur=viewport width*/
+    padding:1vh; /* espacement (ou marge)*/
+    background-size: cover;/*etire les l'image pour qu'elle rentre dans la balise*/
+    border:5px solid black;
+    float: left;/* effet flotant ,sort les element du flux naturel de la page les places  les uns a cotes des autres*/
+    background-color: green; 
+    text-align: center;
+    display: block;     
+}
+.zone5{
+    height:80vh;/* hauteur=viewport height*/ 
+    width:20vw;/* largeur=viewport width*/
+    padding:1vh; /* espacement (ou marge)*/
+    background-size: cover;/*etire les l'image pour qu'elle rentre dans la balise*/
+    border:5px solid black;
+    float: left;/* effet flotant ,sort les element du flux naturel de la page les places  les uns a cotes des autres*/
+    background-color: green;
+    text-align: center;  
+    display: block;   
+}
+
+.zone :right{
+height:100vh;/* hauteur=viewport height*/ 
+width:20vw;/* largeur=viewport width*/
+padding:S2vh; /* espacement (ou marge)*/
+background-size: cover;/*etire les l'image pour qu'elle rentre dans la balise*/
+border:5px solid black;
+margin:2vh ;
+float: left;/* effet flotant ,sort les element du flux naturel de la page les places  les uns a cotes des autres*/
+background-color: blue;
+text-align: center;
+display: block;
+}
+footer {
+    height:20px;
+    min-width: 60;
+    background-color:orange ;
+    border:5px solid black;
+    text-align: center;
+    padding-top: 6px;
+    display: block;
+    
+}
+
+
+
+
+.clear{
+    clear: both;/*les 2 cotes*/
+}
+

@@ -1,0 +1,18 @@
+body{ /* Pour les textes type paragraphe */
+    font-family: 'titre de niveau 1', sans-serif;
+}
+
+.p1, .p2,.p3 { /* Pour les titres */
+    font-family: 'mon titre', serif;
+}
+ 
+ 
+ p{
+    font-size:400%
+}
+.p1,.p2{
+    line-height:300%
+}
+.p3{
+    line-height: 200%s;
+}
